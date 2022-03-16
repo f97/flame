@@ -2,3 +2,4 @@ node_modules
 data
 !client/public
 build.sh
+public/
