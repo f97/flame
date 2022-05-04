@@ -19,7 +19,7 @@ Flame is self-hosted startpage for your server. Its design is inspired (heavily)
 
 ### With Heroku
 
-[![Heroku Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/pawelmalak/flame/tree/master)
+[![Heroku Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/f97/flame/tree/master)
 
 ### With Docker (recommended)
 
